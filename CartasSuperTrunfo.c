@@ -16,11 +16,11 @@ nome1: Belém  nome2: castanhal
 
 população1: 1.303.403  população2:192.256
 
-turismo:     turismo:
+turismo1:30    turismo2:
 
-area1:      área2:
+area1:1.059,47     área2:1.029,300
 
-pib1:       pib1:
+pib1: 33,4      pib1:4,29
 
 
 
