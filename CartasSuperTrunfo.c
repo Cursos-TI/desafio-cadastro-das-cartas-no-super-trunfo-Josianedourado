@@ -28,8 +28,8 @@ pib1 = 33,4;     pib1 = 4,29;
 printf("nome1 %s\n");
 printf("letra1 %s\c");
 printf("nome1 %s\n");
-printf(população1 %d\n");
-printf(turismo1 %d\n");
+printf("população1 %d\n");
+printf("turismo1 %d\n");
 printf("area1 %2.f\n");
 printf("pib1 %d\n");
 
@@ -37,8 +37,8 @@ printf("pib1 %d\n");
 printf("nome2 %s\n");
 printf("letra2 %s\c");
 printf("nome2 %s\n");
-printf(população2 %d\n");
-printf(turismo2 %d\n");
+printf("população2 %d\n");
+printf("turismo2 %d\n");
 printf("area2 %2.f\n");
 printf("pib2 %d\n");
 
