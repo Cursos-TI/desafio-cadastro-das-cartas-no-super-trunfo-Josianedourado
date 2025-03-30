@@ -22,7 +22,7 @@ turismo1 =30;   turismo2 =10;
 
 area1 =1.059,47;    área2 =1.029,300;
 
-pib1 = 33,4;     pib1 = 4,29;
+pib1 = 33,4;     pib2 = 4,29;
 
 
 printf("nome1 %s\n");
