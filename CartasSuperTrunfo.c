@@ -10,11 +10,11 @@ int turismo;
 double área;
 float pib;
 
-nome = Para
+nome =Para
 
 letra1 ='A1';  letra2 = 'A2';
 
-nome1= Belém;   nome2 = castanhal;
+nome1 =Belém;   nome2 =castanhal;
 
 população1 = 1.303.403;  população2 =192.256;
 
